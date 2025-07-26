@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tina-marion&label=Profile%20views&color=0e75b6&style=flat" alt="Tina-marion profile views" />
 </p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Girl" />
+
 
 ---
 
